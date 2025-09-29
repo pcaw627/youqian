@@ -1,0 +1,4042 @@
+{
+  "analysis_info": {
+    "total_songs_processed": 1045,
+    "total_vocabulary_count": 240634,
+    "years_analyzed": 20,
+    "analysis_date": "2025-09-23T20:57:12.825316",
+    "top_words_per_year": 50
+  },
+  "yearly_rankings": {
+    "1996": [
+      {
+        "word": "真正",
+        "frequency": 13
+      },
+      {
+        "word": "这是",
+        "frequency": 11
+      },
+      {
+        "word": "谈话",
+        "frequency": 10
+      },
+      {
+        "word": "我们",
+        "frequency": 9
+      },
+      {
+        "word": "婊子",
+        "frequency": 3
+      },
+      {
+        "word": "成为",
+        "frequency": 2
+      },
+      {
+        "word": "最好",
+        "frequency": 2
+      },
+      {
+        "word": "生活",
+        "frequency": 2
+      },
+      {
+        "word": "狗屎",
+        "frequency": 2
+      },
+      {
+        "word": "96",
+        "frequency": 2
+      },
+      {
+        "word": "girls",
+        "frequency": 2
+      },
+      {
+        "word": "we",
+        "frequency": 2
+      },
+      {
+        "word": "这里",
+        "frequency": 1
+      },
+      {
+        "word": "right",
+        "frequency": 1
+      },
+      {
+        "word": "畅销",
+        "frequency": 1
+      },
+      {
+        "word": "女子",
+        "frequency": 1
+      },
+      {
+        "word": "组合",
+        "frequency": 1
+      },
+      {
+        "word": "他们",
+        "frequency": 1
+      },
+      {
+        "word": "帮派",
+        "frequency": 1
+      },
+      {
+        "word": "很漂亮",
+        "frequency": 1
+      },
+      {
+        "word": "野蛮",
+        "frequency": 1
+      },
+      {
+        "word": "就是",
+        "frequency": 1
+      },
+      {
+        "word": "一些",
+        "frequency": 1
+      },
+      {
+        "word": "这个",
+        "frequency": 1
+      },
+      {
+        "word": "视觉",
+        "frequency": 1
+      },
+      {
+        "word": "女孩",
+        "frequency": 1
+      },
+      {
+        "word": "樱桃",
+        "frequency": 1
+      },
+      {
+        "word": "无论",
+        "frequency": 1
+      },
+      {
+        "word": "哪里",
+        "frequency": 1
+      },
+      {
+        "word": "相机",
+        "frequency": 1
+      },
+      {
+        "word": "出名",
+        "frequency": 1
+      },
+      {
+        "word": "the",
+        "frequency": 1
+      },
+      {
+        "word": "alpha",
+        "frequency": 1
+      },
+      {
+        "word": "没有",
+        "frequency": 1
+      },
+      {
+        "word": "可以",
+        "frequency": 1
+      },
+      {
+        "word": "业内",
+        "frequency": 1
+      },
+      {
+        "word": "砰砰",
+        "frequency": 1
+      },
+      {
+        "word": "家门口",
+        "frequency": 1
+      },
+      {
+        "word": "got",
+        "frequency": 1
+      },
+      {
+        "word": "some",
+        "frequency": 1
+      },
+      {
+        "word": "bitch",
+        "frequency": 1
+      },
+      {
+        "word": "屁股",
+        "frequency": 1
+      },
+      {
+        "word": "男人",
+        "frequency": 1
+      },
+      {
+        "word": "流口水",
+        "frequency": 1
+      },
+      {
+        "word": "他会",
+        "frequency": 1
+      },
+      {
+        "word": "离开",
+        "frequency": 1
+      }
+    ],
+    "2001": [
+      {
+        "word": "双截棍",
+        "frequency": 16
+      },
+      {
+        "word": "使用",
+        "frequency": 13
+      },
+      {
+        "word": "干什么",
+        "frequency": 12
+      },
+      {
+        "word": "哼哼",
+        "frequency": 10
+      },
+      {
+        "word": "哈兮",
+        "frequency": 10
+      },
+      {
+        "word": "什么",
+        "frequency": 6
+      },
+      {
+        "word": "他们",
+        "frequency": 3
+      },
+      {
+        "word": "儿子",
+        "frequency": 3
+      },
+      {
+        "word": "习惯",
+        "frequency": 3
+      },
+      {
+        "word": "从小",
+        "frequency": 3
+      },
+      {
+        "word": "耳濡目染",
+        "frequency": 3
+      },
+      {
+        "word": "刀枪",
+        "frequency": 3
+      },
+      {
+        "word": "棍棒",
+        "frequency": 3
+      },
+      {
+        "word": "有模有样",
+        "frequency": 3
+      },
+      {
+        "word": "兵器",
+        "frequency": 3
+      },
+      {
+        "word": "喜欢",
+        "frequency": 3
+      },
+      {
+        "word": "柔中带刚",
+        "frequency": 3
+      },
+      {
+        "word": "想要",
+        "frequency": 3
+      },
+      {
+        "word": "河南",
+        "frequency": 3
+      },
+      {
+        "word": "嵩山",
+        "frequency": 3
+      },
+      {
+        "word": "少林",
+        "frequency": 3
+      },
+      {
+        "word": "武当",
+        "frequency": 3
+      },
+      {
+        "word": "飞檐走壁",
+        "frequency": 3
+      },
+      {
+        "word": "武之人",
+        "frequency": 3
+      },
+      {
+        "word": "切记",
+        "frequency": 3
+      },
+      {
+        "word": "仁者无敌",
+        "frequency": 3
+      },
+      {
+        "word": "太极",
+        "frequency": 3
+      },
+      {
+        "word": "风生水",
+        "frequency": 3
+      },
+      {
+        "word": "如果",
+        "frequency": 3
+      },
+      {
+        "word": "轻功",
+        "frequency": 3
+      },
+      {
+        "word": "耿直",
+        "frequency": 3
+      },
+      {
+        "word": "不屈",
+        "frequency": 3
+      },
+      {
+        "word": "一身正气",
+        "frequency": 3
+      },
+      {
+        "word": "岩烧店",
+        "frequency": 1
+      },
+      {
+        "word": "烟味",
+        "frequency": 1
+      },
+      {
+        "word": "弥漫",
+        "frequency": 1
+      },
+      {
+        "word": "隔壁",
+        "frequency": 1
+      },
+      {
+        "word": "国术",
+        "frequency": 1
+      },
+      {
+        "word": "里面",
+        "frequency": 1
+      },
+      {
+        "word": "妈妈",
+        "frequency": 1
+      },
+      {
+        "word": "茶道",
+        "frequency": 1
+      },
+      {
+        "word": "三段",
+        "frequency": 1
+      },
+      {
+        "word": "拳脚",
+        "frequency": 1
+      },
+      {
+        "word": "武术",
+        "frequency": 1
+      },
+      {
+        "word": "老板",
+        "frequency": 1
+      },
+      {
+        "word": "铁沙掌",
+        "frequency": 1
+      },
+      {
+        "word": "杨家枪",
+        "frequency": 1
+      },
+      {
+        "word": "底子",
+        "frequency": 1
+      },
+      {
+        "word": "功夫",
+        "frequency": 1
+      },
+      {
+        "word": "擅长",
+        "frequency": 1
+      }
+    ],
+    "2002": [
+      {
+        "word": "台灣",
+        "frequency": 34
+      },
+      {
+        "word": "台灣爽",
+        "frequency": 12
+      },
+      {
+        "word": "那裡",
+        "frequency": 9
+      },
+      {
+        "word": "什麼",
+        "frequency": 9
+      },
+      {
+        "word": "寶島",
+        "frequency": 6
+      },
+      {
+        "word": "這是",
+        "frequency": 6
+      },
+      {
+        "word": "最爽",
+        "frequency": 6
+      },
+      {
+        "word": "之聲",
+        "frequency": 5
+      },
+      {
+        "word": "美麗",
+        "frequency": 3
+      },
+      {
+        "word": "人間",
+        "frequency": 3
+      },
+      {
+        "word": "天堂",
+        "frequency": 3
+      },
+      {
+        "word": "不是",
+        "frequency": 3
+      },
+      {
+        "word": "真正",
+        "frequency": 3
+      },
+      {
+        "word": "台灣米",
+        "frequency": 3
+      },
+      {
+        "word": "台灣水",
+        "frequency": 3
+      },
+      {
+        "word": "生是",
+        "frequency": 3
+      },
+      {
+        "word": "清楚",
+        "frequency": 2
+      },
+      {
+        "word": "只是",
+        "frequency": 2
+      },
+      {
+        "word": "講什麼",
+        "frequency": 2
+      },
+      {
+        "word": "就是",
+        "frequency": 2
+      },
+      {
+        "word": "自己",
+        "frequency": 2
+      },
+      {
+        "word": "欺負",
+        "frequency": 2
+      },
+      {
+        "word": "想要",
+        "frequency": 2
+      },
+      {
+        "word": "不怕",
+        "frequency": 2
+      },
+      {
+        "word": "現在",
+        "frequency": 2
+      },
+      {
+        "word": "最好",
+        "frequency": 2
+      },
+      {
+        "word": "那麼",
+        "frequency": 2
+      },
+      {
+        "word": "旁邊",
+        "frequency": 2
+      },
+      {
+        "word": "這塊",
+        "frequency": 2
+      },
+      {
+        "word": "土地",
+        "frequency": 2
+      },
+      {
+        "word": "不能",
+        "frequency": 2
+      },
+      {
+        "word": "較團結",
+        "frequency": 2
+      },
+      {
+        "word": "甘沒人",
+        "frequency": 2
+      },
+      {
+        "word": "2300",
+        "frequency": 2
+      },
+      {
+        "word": "筷子",
+        "frequency": 2
+      },
+      {
+        "word": "外面",
+        "frequency": 2
+      },
+      {
+        "word": "這條",
+        "frequency": 1
+      },
+      {
+        "word": "講那",
+        "frequency": 1
+      },
+      {
+        "word": "福爾摩沙",
+        "frequency": 1
+      },
+      {
+        "word": "怎樣",
+        "frequency": 1
+      },
+      {
+        "word": "變成",
+        "frequency": 1
+      },
+      {
+        "word": "大支",
+        "frequency": 1
+      },
+      {
+        "word": "之子",
+        "frequency": 1
+      },
+      {
+        "word": "阿扁",
+        "frequency": 1
+      },
+      {
+        "word": "愛台灣",
+        "frequency": 1
+      },
+      {
+        "word": "小孩",
+        "frequency": 1
+      },
+      {
+        "word": "要裝",
+        "frequency": 1
+      },
+      {
+        "word": "冠冕堂皇",
+        "frequency": 1
+      },
+      {
+        "word": "一個",
+        "frequency": 1
+      },
+      {
+        "word": "要問",
+        "frequency": 1
+      }
+    ],
+    "2003": [
+      {
+        "word": "北京",
+        "frequency": 35
+      },
+      {
+        "word": "无聊",
+        "frequency": 27
+      },
+      {
+        "word": "真的",
+        "frequency": 25
+      },
+      {
+        "word": "自己",
+        "frequency": 21
+      },
+      {
+        "word": "知道",
+        "frequency": 15
+      },
+      {
+        "word": "没有",
+        "frequency": 14
+      },
+      {
+        "word": "世界",
+        "frequency": 11
+      },
+      {
+        "word": "一个",
+        "frequency": 11
+      },
+      {
+        "word": "不要",
+        "frequency": 9
+      },
+      {
+        "word": "我过",
+        "frequency": 9
+      },
+      {
+        "word": "所有",
+        "frequency": 8
+      },
+      {
+        "word": "生命",
+        "frequency": 7
+      },
+      {
+        "word": "改變",
+        "frequency": 7
+      },
+      {
+        "word": "漂亮",
+        "frequency": 7
+      },
+      {
+        "word": "我要",
+        "frequency": 7
+      },
+      {
+        "word": "那个",
+        "frequency": 7
+      },
+      {
+        "word": "什么",
+        "frequency": 7
+      },
+      {
+        "word": "爆米花",
+        "frequency": 7
+      },
+      {
+        "word": "沒有",
+        "frequency": 6
+      },
+      {
+        "word": "多少",
+        "frequency": 6
+      },
+      {
+        "word": "開始",
+        "frequency": 6
+      },
+      {
+        "word": "有些",
+        "frequency": 6
+      },
+      {
+        "word": "现在",
+        "frequency": 6
+      },
+      {
+        "word": "一切",
+        "frequency": 6
+      },
+      {
+        "word": "告诉",
+        "frequency": 6
+      },
+      {
+        "word": "完美",
+        "frequency": 6
+      },
+      {
+        "word": "再見",
+        "frequency": 6
+      },
+      {
+        "word": "事情",
+        "frequency": 6
+      },
+      {
+        "word": "現在",
+        "frequency": 5
+      },
+      {
+        "word": "就是",
+        "frequency": 5
+      },
+      {
+        "word": "煩惱",
+        "frequency": 5
+      },
+      {
+        "word": "很多",
+        "frequency": 5
+      },
+      {
+        "word": "什麼",
+        "frequency": 5
+      },
+      {
+        "word": "可以",
+        "frequency": 5
+      },
+      {
+        "word": "角落",
+        "frequency": 5
+      },
+      {
+        "word": "感觉",
+        "frequency": 5
+      },
+      {
+        "word": "快樂",
+        "frequency": 5
+      },
+      {
+        "word": "时候",
+        "frequency": 5
+      },
+      {
+        "word": "me",
+        "frequency": 5
+      },
+      {
+        "word": "回家",
+        "frequency": 4
+      },
+      {
+        "word": "味道",
+        "frequency": 4
+      },
+      {
+        "word": "討厭",
+        "frequency": 4
+      },
+      {
+        "word": "他們",
+        "frequency": 4
+      },
+      {
+        "word": "如何",
+        "frequency": 4
+      },
+      {
+        "word": "痛苦",
+        "frequency": 4
+      },
+      {
+        "word": "入睡",
+        "frequency": 4
+      },
+      {
+        "word": "因為",
+        "frequency": 4
+      },
+      {
+        "word": "只有",
+        "frequency": 4
+      },
+      {
+        "word": "全是",
+        "frequency": 4
+      },
+      {
+        "word": "还有",
+        "frequency": 4
+      }
+    ],
+    "2004": [
+      {
+        "word": "love",
+        "frequency": 42
+      },
+      {
+        "word": "la",
+        "frequency": 36
+      },
+      {
+        "word": "別鬧",
+        "frequency": 34
+      },
+      {
+        "word": "不是",
+        "frequency": 26
+      },
+      {
+        "word": "不要",
+        "frequency": 20
+      },
+      {
+        "word": "愛情",
+        "frequency": 20
+      },
+      {
+        "word": "想起",
+        "frequency": 18
+      },
+      {
+        "word": "給我",
+        "frequency": 17
+      },
+      {
+        "word": "同一",
+        "frequency": 16
+      },
+      {
+        "word": "吹喇叭",
+        "frequency": 16
+      },
+      {
+        "word": "怎麼",
+        "frequency": 15
+      },
+      {
+        "word": "我要",
+        "frequency": 15
+      },
+      {
+        "word": "放掉",
+        "frequency": 14
+      },
+      {
+        "word": "自己",
+        "frequency": 14
+      },
+      {
+        "word": "當我",
+        "frequency": 13
+      },
+      {
+        "word": "養的貓",
+        "frequency": 12
+      },
+      {
+        "word": "幸福",
+        "frequency": 11
+      },
+      {
+        "word": "就是",
+        "frequency": 11
+      },
+      {
+        "word": "多麼",
+        "frequency": 10
+      },
+      {
+        "word": "冷到",
+        "frequency": 10
+      },
+      {
+        "word": "三十六",
+        "frequency": 10
+      },
+      {
+        "word": "我們",
+        "frequency": 10
+      },
+      {
+        "word": "時間",
+        "frequency": 9
+      },
+      {
+        "word": "那麼",
+        "frequency": 9
+      },
+      {
+        "word": "一個",
+        "frequency": 9
+      },
+      {
+        "word": "沒有",
+        "frequency": 9
+      },
+      {
+        "word": "從前",
+        "frequency": 9
+      },
+      {
+        "word": "地點",
+        "frequency": 8
+      },
+      {
+        "word": "一套",
+        "frequency": 8
+      },
+      {
+        "word": "公式",
+        "frequency": 8
+      },
+      {
+        "word": "精準",
+        "frequency": 8
+      },
+      {
+        "word": "愚蠢",
+        "frequency": 8
+      },
+      {
+        "word": "情話",
+        "frequency": 8
+      },
+      {
+        "word": "催眠",
+        "frequency": 8
+      },
+      {
+        "word": "笑話",
+        "frequency": 8
+      },
+      {
+        "word": "宇宙",
+        "frequency": 8
+      },
+      {
+        "word": "邊緣",
+        "frequency": 8
+      },
+      {
+        "word": "用點腦",
+        "frequency": 8
+      },
+      {
+        "word": "示好",
+        "frequency": 8
+      },
+      {
+        "word": "知道",
+        "frequency": 8
+      },
+      {
+        "word": "開始",
+        "frequency": 8
+      },
+      {
+        "word": "世界",
+        "frequency": 8
+      },
+      {
+        "word": "百分百",
+        "frequency": 8
+      },
+      {
+        "word": "最好",
+        "frequency": 8
+      },
+      {
+        "word": "看起",
+        "frequency": 7
+      },
+      {
+        "word": "表情",
+        "frequency": 7
+      },
+      {
+        "word": "美麗",
+        "frequency": 7
+      },
+      {
+        "word": "的關",
+        "frequency": 7
+      },
+      {
+        "word": "不用",
+        "frequency": 7
+      },
+      {
+        "word": "天空",
+        "frequency": 7
+      }
+    ],
+    "2008": [
+      {
+        "word": "差不多",
+        "frequency": 86
+      },
+      {
+        "word": "有人",
+        "frequency": 15
+      },
+      {
+        "word": "北京晚报",
+        "frequency": 15
+      },
+      {
+        "word": "in3",
+        "frequency": 14
+      },
+      {
+        "word": "吊吊",
+        "frequency": 13
+      },
+      {
+        "word": "我们",
+        "frequency": 12
+      },
+      {
+        "word": "北京",
+        "frequency": 10
+      },
+      {
+        "word": "你们",
+        "frequency": 9
+      },
+      {
+        "word": "先生",
+        "frequency": 8
+      },
+      {
+        "word": "自己",
+        "frequency": 8
+      },
+      {
+        "word": "因为",
+        "frequency": 8
+      },
+      {
+        "word": "妞儿",
+        "frequency": 7
+      },
+      {
+        "word": "喜欢",
+        "frequency": 6
+      },
+      {
+        "word": "知道",
+        "frequency": 6
+      },
+      {
+        "word": "不是",
+        "frequency": 6
+      },
+      {
+        "word": "代表",
+        "frequency": 5
+      },
+      {
+        "word": "老母",
+        "frequency": 4
+      },
+      {
+        "word": "所以",
+        "frequency": 4
+      },
+      {
+        "word": "想要",
+        "frequency": 4
+      },
+      {
+        "word": "漂亮",
+        "frequency": 4
+      },
+      {
+        "word": "只有",
+        "frequency": 4
+      },
+      {
+        "word": "但是",
+        "frequency": 4
+      },
+      {
+        "word": "还是",
+        "frequency": 4
+      },
+      {
+        "word": "不想",
+        "frequency": 4
+      },
+      {
+        "word": "hiphop",
+        "frequency": 4
+      },
+      {
+        "word": "什么",
+        "frequency": 4
+      },
+      {
+        "word": "兄弟",
+        "frequency": 4
+      },
+      {
+        "word": "人生",
+        "frequency": 3
+      },
+      {
+        "word": "烏龜",
+        "frequency": 3
+      },
+      {
+        "word": "生活",
+        "frequency": 3
+      },
+      {
+        "word": "他们",
+        "frequency": 3
+      },
+      {
+        "word": "哪儿",
+        "frequency": 3
+      },
+      {
+        "word": "一个",
+        "frequency": 3
+      },
+      {
+        "word": "根本",
+        "frequency": 3
+      },
+      {
+        "word": "事儿",
+        "frequency": 3
+      },
+      {
+        "word": "就是",
+        "frequency": 3
+      },
+      {
+        "word": "不会",
+        "frequency": 3
+      },
+      {
+        "word": "世界",
+        "frequency": 3
+      },
+      {
+        "word": "不管",
+        "frequency": 3
+      },
+      {
+        "word": "他妈",
+        "frequency": 3
+      },
+      {
+        "word": "大街",
+        "frequency": 3
+      },
+      {
+        "word": "身边",
+        "frequency": 3
+      },
+      {
+        "word": "玩儿",
+        "frequency": 3
+      },
+      {
+        "word": "已经",
+        "frequency": 3
+      },
+      {
+        "word": "听说",
+        "frequency": 3
+      },
+      {
+        "word": "看看",
+        "frequency": 3
+      },
+      {
+        "word": "没事儿",
+        "frequency": 3
+      },
+      {
+        "word": "真正",
+        "frequency": 3
+      },
+      {
+        "word": "音乐",
+        "frequency": 3
+      },
+      {
+        "word": "泛儿",
+        "frequency": 3
+      }
+    ],
+    "2009": [
+      {
+        "word": "不斷",
+        "frequency": 19
+      },
+      {
+        "word": "煙霧",
+        "frequency": 18
+      },
+      {
+        "word": "play",
+        "frequency": 12
+      },
+      {
+        "word": "this",
+        "frequency": 12
+      },
+      {
+        "word": "song",
+        "frequency": 12
+      },
+      {
+        "word": "我們",
+        "frequency": 11
+      },
+      {
+        "word": "你會",
+        "frequency": 10
+      },
+      {
+        "word": "開始",
+        "frequency": 9
+      },
+      {
+        "word": "fun",
+        "frequency": 9
+      },
+      {
+        "word": "從來",
+        "frequency": 9
+      },
+      {
+        "word": "沒有",
+        "frequency": 9
+      },
+      {
+        "word": "押韻",
+        "frequency": 9
+      },
+      {
+        "word": "拍案",
+        "frequency": 9
+      },
+      {
+        "word": "著說",
+        "frequency": 9
+      },
+      {
+        "word": "\"!\"",
+        "frequency": 9
+      },
+      {
+        "word": "胡亂",
+        "frequency": 9
+      },
+      {
+        "word": "迷幻",
+        "frequency": 9
+      },
+      {
+        "word": "著習",
+        "frequency": 9
+      },
+      {
+        "word": "收斂",
+        "frequency": 7
+      },
+      {
+        "word": "...",
+        "frequency": 6
+      },
+      {
+        "word": "期待",
+        "frequency": 4
+      },
+      {
+        "word": "bye",
+        "frequency": 4
+      },
+      {
+        "word": "太多",
+        "frequency": 4
+      },
+      {
+        "word": "慢慢",
+        "frequency": 4
+      },
+      {
+        "word": "需要",
+        "frequency": 4
+      },
+      {
+        "word": "喜歡",
+        "frequency": 3
+      },
+      {
+        "word": "wanna",
+        "frequency": 3
+      },
+      {
+        "word": "時間",
+        "frequency": 3
+      },
+      {
+        "word": "多少",
+        "frequency": 3
+      },
+      {
+        "word": "節拍",
+        "frequency": 3
+      },
+      {
+        "word": "清爽",
+        "frequency": 3
+      },
+      {
+        "word": "單純",
+        "frequency": 3
+      },
+      {
+        "word": "完夜店",
+        "frequency": 3
+      },
+      {
+        "word": "洗完",
+        "frequency": 3
+      },
+      {
+        "word": "悠閒",
+        "frequency": 3
+      },
+      {
+        "word": "下午",
+        "frequency": 3
+      },
+      {
+        "word": "怎麼",
+        "frequency": 2
+      },
+      {
+        "word": "香味",
+        "frequency": 2
+      },
+      {
+        "word": "只是",
+        "frequency": 2
+      },
+      {
+        "word": "想要",
+        "frequency": 2
+      },
+      {
+        "word": "一點",
+        "frequency": 2
+      },
+      {
+        "word": "chill",
+        "frequency": 2
+      },
+      {
+        "word": "壓力",
+        "frequency": 2
+      },
+      {
+        "word": "救救",
+        "frequency": 2
+      },
+      {
+        "word": "所有",
+        "frequency": 2
+      },
+      {
+        "word": "新聞",
+        "frequency": 2
+      },
+      {
+        "word": "人正點",
+        "frequency": 2
+      },
+      {
+        "word": "太過",
+        "frequency": 2
+      },
+      {
+        "word": "油膩",
+        "frequency": 2
+      },
+      {
+        "word": "題材",
+        "frequency": 2
+      }
+    ],
+    "2010": [
+      {
+        "word": "不要",
+        "frequency": 17
+      },
+      {
+        "word": "幼稚园",
+        "frequency": 8
+      },
+      {
+        "word": "杀手",
+        "frequency": 8
+      },
+      {
+        "word": "再也不会",
+        "frequency": 8
+      },
+      {
+        "word": "to",
+        "frequency": 7
+      },
+      {
+        "word": "菲菲菲菲菲",
+        "frequency": 6
+      },
+      {
+        "word": "菲菲",
+        "frequency": 6
+      },
+      {
+        "word": "this",
+        "frequency": 6
+      },
+      {
+        "word": "song",
+        "frequency": 6
+      },
+      {
+        "word": "dedicated",
+        "frequency": 6
+      },
+      {
+        "word": "time",
+        "frequency": 6
+      },
+      {
+        "word": "没有",
+        "frequency": 6
+      },
+      {
+        "word": "后退",
+        "frequency": 6
+      },
+      {
+        "word": "退缩",
+        "frequency": 6
+      },
+      {
+        "word": "k-bo",
+        "frequency": 5
+      },
+      {
+        "word": "life",
+        "frequency": 5
+      },
+      {
+        "word": "菲菲菲菲菲菲菲",
+        "frequency": 3
+      },
+      {
+        "word": "什么",
+        "frequency": 3
+      },
+      {
+        "word": "知道",
+        "frequency": 3
+      },
+      {
+        "word": "远走高飞",
+        "frequency": 3
+      },
+      {
+        "word": "记得",
+        "frequency": 2
+      },
+      {
+        "word": "我们",
+        "frequency": 2
+      },
+      {
+        "word": "那么",
+        "frequency": 2
+      },
+      {
+        "word": "但愿",
+        "frequency": 2
+      },
+      {
+        "word": "一定",
+        "frequency": 2
+      },
+      {
+        "word": "可以",
+        "frequency": 2
+      },
+      {
+        "word": "还是",
+        "frequency": 2
+      },
+      {
+        "word": "飞飞",
+        "frequency": 1
+      },
+      {
+        "word": "歌词",
+        "frequency": 1
+      },
+      {
+        "word": "yeah",
+        "frequency": 1
+      },
+      {
+        "word": "ah",
+        "frequency": 1
+      },
+      {
+        "word": "ha",
+        "frequency": 1
+      },
+      {
+        "word": "2010",
+        "frequency": 1
+      },
+      {
+        "word": "uh",
+        "frequency": 1
+      },
+      {
+        "word": "生前",
+        "frequency": 1
+      },
+      {
+        "word": "欢笑",
+        "frequency": 1
+      },
+      {
+        "word": "虽然",
+        "frequency": 1
+      },
+      {
+        "word": "对方",
+        "frequency": 1
+      },
+      {
+        "word": "几秒",
+        "frequency": 1
+      },
+      {
+        "word": "关掉",
+        "frequency": 1
+      },
+      {
+        "word": "一直",
+        "frequency": 1
+      },
+      {
+        "word": "以为",
+        "frequency": 1
+      },
+      {
+        "word": "大家",
+        "frequency": 1
+      },
+      {
+        "word": "玩笑",
+        "frequency": 1
+      },
+      {
+        "word": "号码",
+        "frequency": 1
+      },
+      {
+        "word": "永远",
+        "frequency": 1
+      },
+      {
+        "word": "不会",
+        "frequency": 1
+      },
+      {
+        "word": "删掉",
+        "frequency": 1
+      },
+      {
+        "word": "忘不了",
+        "frequency": 1
+      },
+      {
+        "word": "一起",
+        "frequency": 1
+      }
+    ],
+    "2011": [
+      {
+        "word": "不會",
+        "frequency": 12
+      },
+      {
+        "word": "奶其",
+        "frequency": 8
+      },
+      {
+        "word": "因為",
+        "frequency": 8
+      },
+      {
+        "word": "歹勢",
+        "frequency": 8
+      },
+      {
+        "word": "他家",
+        "frequency": 8
+      },
+      {
+        "word": "這樣",
+        "frequency": 7
+      },
+      {
+        "word": "什麼",
+        "frequency": 6
+      },
+      {
+        "word": "無聊",
+        "frequency": 6
+      },
+      {
+        "word": "hit",
+        "frequency": 5
+      },
+      {
+        "word": "the",
+        "frequency": 5
+      },
+      {
+        "word": "rhyme",
+        "frequency": 5
+      },
+      {
+        "word": "我夠",
+        "frequency": 5
+      },
+      {
+        "word": "步兵",
+        "frequency": 5
+      },
+      {
+        "word": "工房",
+        "frequency": 5
+      },
+      {
+        "word": "拖鞋",
+        "frequency": 5
+      },
+      {
+        "word": "不要",
+        "frequency": 4
+      },
+      {
+        "word": "出現",
+        "frequency": 4
+      },
+      {
+        "word": "一到",
+        "frequency": 4
+      },
+      {
+        "word": "無人夠",
+        "frequency": 4
+      },
+      {
+        "word": "swag",
+        "frequency": 4
+      },
+      {
+        "word": "原康",
+        "frequency": 4
+      },
+      {
+        "word": "學野",
+        "frequency": 4
+      },
+      {
+        "word": "黎行",
+        "frequency": 4
+      },
+      {
+        "word": "不然",
+        "frequency": 4
+      },
+      {
+        "word": "那蒜頭",
+        "frequency": 4
+      },
+      {
+        "word": "一雙鞋",
+        "frequency": 4
+      },
+      {
+        "word": "五千",
+        "frequency": 4
+      },
+      {
+        "word": "下去",
+        "frequency": 4
+      },
+      {
+        "word": "浪費",
+        "frequency": 4
+      },
+      {
+        "word": "做水電",
+        "frequency": 4
+      },
+      {
+        "word": "處理",
+        "frequency": 4
+      },
+      {
+        "word": "吊嘎",
+        "frequency": 4
+      },
+      {
+        "word": "幫忙",
+        "frequency": 4
+      },
+      {
+        "word": "抱怨",
+        "frequency": 4
+      },
+      {
+        "word": "出去",
+        "frequency": 4
+      },
+      {
+        "word": "準備",
+        "frequency": 4
+      },
+      {
+        "word": "他揶",
+        "frequency": 4
+      },
+      {
+        "word": "押韻",
+        "frequency": 3
+      },
+      {
+        "word": "旋律",
+        "frequency": 3
+      },
+      {
+        "word": "可以",
+        "frequency": 3
+      },
+      {
+        "word": "怎麼",
+        "frequency": 3
+      },
+      {
+        "word": "鐘意",
+        "frequency": 3
+      },
+      {
+        "word": "眾所",
+        "frequency": 3
+      },
+      {
+        "word": "周知",
+        "frequency": 3
+      },
+      {
+        "word": "有人",
+        "frequency": 3
+      },
+      {
+        "word": "一下",
+        "frequency": 3
+      },
+      {
+        "word": "王作夥",
+        "frequency": 3
+      },
+      {
+        "word": "不用",
+        "frequency": 2
+      },
+      {
+        "word": "一樣",
+        "frequency": 2
+      },
+      {
+        "word": "想要",
+        "frequency": 2
+      }
+    ],
+    "2012": [
+      {
+        "word": "無聊",
+        "frequency": 27
+      },
+      {
+        "word": "離開",
+        "frequency": 15
+      },
+      {
+        "word": "世界",
+        "frequency": 14
+      },
+      {
+        "word": "我們",
+        "frequency": 13
+      },
+      {
+        "word": "自己",
+        "frequency": 13
+      },
+      {
+        "word": "we",
+        "frequency": 11
+      },
+      {
+        "word": "每天",
+        "frequency": 11
+      },
+      {
+        "word": "night",
+        "frequency": 11
+      },
+      {
+        "word": "生活",
+        "frequency": 10
+      },
+      {
+        "word": "party",
+        "frequency": 10
+      },
+      {
+        "word": "all",
+        "frequency": 9
+      },
+      {
+        "word": "怎麼",
+        "frequency": 9
+      },
+      {
+        "word": "人生",
+        "frequency": 9
+      },
+      {
+        "word": "熟女",
+        "frequency": 9
+      },
+      {
+        "word": "is",
+        "frequency": 8
+      },
+      {
+        "word": "for",
+        "frequency": 8
+      },
+      {
+        "word": "一起",
+        "frequency": 8
+      },
+      {
+        "word": "不是",
+        "frequency": 8
+      },
+      {
+        "word": "出來",
+        "frequency": 8
+      },
+      {
+        "word": "hey",
+        "frequency": 8
+      },
+      {
+        "word": "let's",
+        "frequency": 8
+      },
+      {
+        "word": "everybody",
+        "frequency": 7
+      },
+      {
+        "word": "grinding",
+        "frequency": 7
+      },
+      {
+        "word": "還有",
+        "frequency": 7
+      },
+      {
+        "word": "一直",
+        "frequency": 7
+      },
+      {
+        "word": "不想",
+        "frequency": 7
+      },
+      {
+        "word": "現在",
+        "frequency": 7
+      },
+      {
+        "word": "就算",
+        "frequency": 7
+      },
+      {
+        "word": "说唱",
+        "frequency": 7
+      },
+      {
+        "word": "生有",
+        "frequency": 6
+      },
+      {
+        "word": "hiphop",
+        "frequency": 6
+      },
+      {
+        "word": "停止",
+        "frequency": 6
+      },
+      {
+        "word": "x3",
+        "frequency": 6
+      },
+      {
+        "word": "keep",
+        "frequency": 6
+      },
+      {
+        "word": "成功",
+        "frequency": 6
+      },
+      {
+        "word": "點介定",
+        "frequency": 6
+      },
+      {
+        "word": "太介懷",
+        "frequency": 6
+      },
+      {
+        "word": "總知",
+        "frequency": 6
+      },
+      {
+        "word": "開始",
+        "frequency": 6
+      },
+      {
+        "word": "像是",
+        "frequency": 6
+      },
+      {
+        "word": "到底",
+        "frequency": 6
+      },
+      {
+        "word": "太多",
+        "frequency": 6
+      },
+      {
+        "word": "搞頭",
+        "frequency": 6
+      },
+      {
+        "word": "如果",
+        "frequency": 6
+      },
+      {
+        "word": "soul",
+        "frequency": 6
+      },
+      {
+        "word": "rapper",
+        "frequency": 6
+      },
+      {
+        "word": "me",
+        "frequency": 6
+      },
+      {
+        "word": "梦想",
+        "frequency": 6
+      },
+      {
+        "word": "shit",
+        "frequency": 5
+      },
+      {
+        "word": "you",
+        "frequency": 5
+      }
+    ],
+    "2013": [
+      {
+        "word": "不管",
+        "frequency": 57
+      },
+      {
+        "word": "我們",
+        "frequency": 53
+      },
+      {
+        "word": "不想",
+        "frequency": 52
+      },
+      {
+        "word": "自己",
+        "frequency": 47
+      },
+      {
+        "word": "就是",
+        "frequency": 39
+      },
+      {
+        "word": "随意",
+        "frequency": 35
+      },
+      {
+        "word": "什麼",
+        "frequency": 31
+      },
+      {
+        "word": "一种",
+        "frequency": 29
+      },
+      {
+        "word": "不是",
+        "frequency": 28
+      },
+      {
+        "word": "可以",
+        "frequency": 27
+      },
+      {
+        "word": "yeah",
+        "frequency": 27
+      },
+      {
+        "word": "他們",
+        "frequency": 27
+      },
+      {
+        "word": "上班",
+        "frequency": 27
+      },
+      {
+        "word": "這裡",
+        "frequency": 25
+      },
+      {
+        "word": "诡诈",
+        "frequency": 25
+      },
+      {
+        "word": "一個",
+        "frequency": 24
+      },
+      {
+        "word": "那些",
+        "frequency": 24
+      },
+      {
+        "word": "不切",
+        "frequency": 24
+      },
+      {
+        "word": "你好",
+        "frequency": 24
+      },
+      {
+        "word": "潇洒",
+        "frequency": 24
+      },
+      {
+        "word": "ahh",
+        "frequency": 23
+      },
+      {
+        "word": "因為",
+        "frequency": 20
+      },
+      {
+        "word": "rap",
+        "frequency": 20
+      },
+      {
+        "word": "如果",
+        "frequency": 19
+      },
+      {
+        "word": "繼續",
+        "frequency": 18
+      },
+      {
+        "word": "看著",
+        "frequency": 18
+      },
+      {
+        "word": "所以",
+        "frequency": 18
+      },
+      {
+        "word": "知道",
+        "frequency": 17
+      },
+      {
+        "word": "因为",
+        "frequency": 17
+      },
+      {
+        "word": "音樂",
+        "frequency": 16
+      },
+      {
+        "word": "我要",
+        "frequency": 16
+      },
+      {
+        "word": "沒有",
+        "frequency": 15
+      },
+      {
+        "word": "不要",
+        "frequency": 15
+      },
+      {
+        "word": "問題",
+        "frequency": 15
+      },
+      {
+        "word": "老子",
+        "frequency": 15
+      },
+      {
+        "word": "一切",
+        "frequency": 14
+      },
+      {
+        "word": "ok",
+        "frequency": 14
+      },
+      {
+        "word": "生活",
+        "frequency": 14
+      },
+      {
+        "word": "這是",
+        "frequency": 14
+      },
+      {
+        "word": "這個",
+        "frequency": 14
+      },
+      {
+        "word": "邊個",
+        "frequency": 14
+      },
+      {
+        "word": "墜落",
+        "frequency": 14
+      },
+      {
+        "word": "说唱",
+        "frequency": 14
+      },
+      {
+        "word": "孩子",
+        "frequency": 13
+      },
+      {
+        "word": "像是",
+        "frequency": 13
+      },
+      {
+        "word": "只是",
+        "frequency": 13
+      },
+      {
+        "word": "verse",
+        "frequency": 12
+      },
+      {
+        "word": "its",
+        "frequency": 12
+      },
+      {
+        "word": "彼此",
+        "frequency": 12
+      },
+      {
+        "word": "人來",
+        "frequency": 12
+      }
+    ],
+    "2014": [
+      {
+        "word": "我們",
+        "frequency": 19
+      },
+      {
+        "word": "feel",
+        "frequency": 16
+      },
+      {
+        "word": "倍儿",
+        "frequency": 16
+      },
+      {
+        "word": "過年",
+        "frequency": 14
+      },
+      {
+        "word": "他們",
+        "frequency": 14
+      },
+      {
+        "word": "we",
+        "frequency": 13
+      },
+      {
+        "word": "崂山",
+        "frequency": 13
+      },
+      {
+        "word": "自己",
+        "frequency": 12
+      },
+      {
+        "word": "学仙",
+        "frequency": 12
+      },
+      {
+        "word": "一個",
+        "frequency": 11
+      },
+      {
+        "word": "生活",
+        "frequency": 11
+      },
+      {
+        "word": "所有",
+        "frequency": 10
+      },
+      {
+        "word": "如果",
+        "frequency": 10
+      },
+      {
+        "word": "那么",
+        "frequency": 10
+      },
+      {
+        "word": "放鞭炮",
+        "frequency": 9
+      },
+      {
+        "word": "開始",
+        "frequency": 9
+      },
+      {
+        "word": "不再",
+        "frequency": 9
+      },
+      {
+        "word": "神仙",
+        "frequency": 9
+      },
+      {
+        "word": "就是",
+        "frequency": 8
+      },
+      {
+        "word": "拜年",
+        "frequency": 8
+      },
+      {
+        "word": "安全",
+        "frequency": 8
+      },
+      {
+        "word": "me",
+        "frequency": 8
+      },
+      {
+        "word": "還是",
+        "frequency": 8
+      },
+      {
+        "word": "这个",
+        "frequency": 8
+      },
+      {
+        "word": "知道",
+        "frequency": 7
+      },
+      {
+        "word": "什麼",
+        "frequency": 7
+      },
+      {
+        "word": "香港",
+        "frequency": 7
+      },
+      {
+        "word": "假話",
+        "frequency": 7
+      },
+      {
+        "word": "不能",
+        "frequency": 7
+      },
+      {
+        "word": "点石成金",
+        "frequency": 7
+      },
+      {
+        "word": "一切",
+        "frequency": 6
+      },
+      {
+        "word": "the",
+        "frequency": 6
+      },
+      {
+        "word": "可以",
+        "frequency": 6
+      },
+      {
+        "word": "不是",
+        "frequency": 6
+      },
+      {
+        "word": "事儿",
+        "frequency": 6
+      },
+      {
+        "word": "有钱",
+        "frequency": 6
+      },
+      {
+        "word": "美酒",
+        "frequency": 6
+      },
+      {
+        "word": "要学",
+        "frequency": 6
+      },
+      {
+        "word": "驾鹤",
+        "frequency": 6
+      },
+      {
+        "word": "飞天",
+        "frequency": 6
+      },
+      {
+        "word": "妙不可言",
+        "frequency": 6
+      },
+      {
+        "word": "定要",
+        "frequency": 6
+      },
+      {
+        "word": "you",
+        "frequency": 5
+      },
+      {
+        "word": "全部",
+        "frequency": 5
+      },
+      {
+        "word": "不會",
+        "frequency": 5
+      },
+      {
+        "word": "代表",
+        "frequency": 5
+      },
+      {
+        "word": "給你",
+        "frequency": 5
+      },
+      {
+        "word": "朋友",
+        "frequency": 5
+      },
+      {
+        "word": "現實",
+        "frequency": 5
+      },
+      {
+        "word": "hate",
+        "frequency": 5
+      }
+    ],
+    "2015": [
+      {
+        "word": "自己",
+        "frequency": 95
+      },
+      {
+        "word": "the",
+        "frequency": 91
+      },
+      {
+        "word": "it",
+        "frequency": 83
+      },
+      {
+        "word": "哪个",
+        "frequency": 82
+      },
+      {
+        "word": "可以",
+        "frequency": 81
+      },
+      {
+        "word": "my",
+        "frequency": 63
+      },
+      {
+        "word": "我們",
+        "frequency": 62
+      },
+      {
+        "word": "you",
+        "frequency": 60
+      },
+      {
+        "word": "票儿",
+        "frequency": 57
+      },
+      {
+        "word": "就是",
+        "frequency": 56
+      },
+      {
+        "word": "成都",
+        "frequency": 54
+      },
+      {
+        "word": "老子",
+        "frequency": 51
+      },
+      {
+        "word": "想要",
+        "frequency": 45
+      },
+      {
+        "word": "fuck",
+        "frequency": 45
+      },
+      {
+        "word": "一個",
+        "frequency": 44
+      },
+      {
+        "word": "不是",
+        "frequency": 41
+      },
+      {
+        "word": "we",
+        "frequency": 41
+      },
+      {
+        "word": "啥子",
+        "frequency": 41
+      },
+      {
+        "word": "to",
+        "frequency": 40
+      },
+      {
+        "word": "沒有",
+        "frequency": 39
+      },
+      {
+        "word": "军火库",
+        "frequency": 39
+      },
+      {
+        "word": "...",
+        "frequency": 37
+      },
+      {
+        "word": "不要",
+        "frequency": 37
+      },
+      {
+        "word": "起来",
+        "frequency": 35
+      },
+      {
+        "word": "看到",
+        "frequency": 34
+      },
+      {
+        "word": "如果",
+        "frequency": 33
+      },
+      {
+        "word": "有莫得",
+        "frequency": 33
+      },
+      {
+        "word": "他們",
+        "frequency": 32
+      },
+      {
+        "word": "無限",
+        "frequency": 32
+      },
+      {
+        "word": "怎麼",
+        "frequency": 30
+      },
+      {
+        "word": "一樣",
+        "frequency": 30
+      },
+      {
+        "word": "所有",
+        "frequency": 30
+      },
+      {
+        "word": "atm",
+        "frequency": 30
+      },
+      {
+        "word": "世界",
+        "frequency": 29
+      },
+      {
+        "word": "what",
+        "frequency": 29
+      },
+      {
+        "word": "me",
+        "frequency": 28
+      },
+      {
+        "word": "可能",
+        "frequency": 28
+      },
+      {
+        "word": "只是",
+        "frequency": 27
+      },
+      {
+        "word": "時候",
+        "frequency": 27
+      },
+      {
+        "word": "特化",
+        "frequency": 27
+      },
+      {
+        "word": "锤子",
+        "frequency": 27
+      },
+      {
+        "word": "什麼",
+        "frequency": 26
+      },
+      {
+        "word": "還是",
+        "frequency": 26
+      },
+      {
+        "word": "关系",
+        "frequency": 26
+      },
+      {
+        "word": "坝坝球",
+        "frequency": 26
+      },
+      {
+        "word": "不能",
+        "frequency": 25
+      },
+      {
+        "word": "that",
+        "frequency": 25
+      },
+      {
+        "word": "all",
+        "frequency": 25
+      },
+      {
+        "word": "keep",
+        "frequency": 25
+      },
+      {
+        "word": "社会",
+        "frequency": 25
+      }
+    ],
+    "2016": [
+      {
+        "word": "可以",
+        "frequency": 96
+      },
+      {
+        "word": "尴尬",
+        "frequency": 78
+      },
+      {
+        "word": "我們",
+        "frequency": 59
+      },
+      {
+        "word": "我们",
+        "frequency": 58
+      },
+      {
+        "word": "自己",
+        "frequency": 57
+      },
+      {
+        "word": "you",
+        "frequency": 55
+      },
+      {
+        "word": "每天",
+        "frequency": 52
+      },
+      {
+        "word": "他们",
+        "frequency": 51
+      },
+      {
+        "word": "他妈的",
+        "frequency": 51
+      },
+      {
+        "word": "up",
+        "frequency": 49
+      },
+      {
+        "word": "一个",
+        "frequency": 47
+      },
+      {
+        "word": "7-11",
+        "frequency": 45
+      },
+      {
+        "word": "me",
+        "frequency": 41
+      },
+      {
+        "word": "你们",
+        "frequency": 40
+      },
+      {
+        "word": "不是",
+        "frequency": 39
+      },
+      {
+        "word": "my",
+        "frequency": 38
+      },
+      {
+        "word": "hold",
+        "frequency": 37
+      },
+      {
+        "word": "打开",
+        "frequency": 37
+      },
+      {
+        "word": "new",
+        "frequency": 37
+      },
+      {
+        "word": "闭嘴",
+        "frequency": 36
+      },
+      {
+        "word": "一位",
+        "frequency": 35
+      },
+      {
+        "word": "la",
+        "frequency": 35
+      },
+      {
+        "word": "don't",
+        "frequency": 35
+      },
+      {
+        "word": "the",
+        "frequency": 33
+      },
+      {
+        "word": "想要",
+        "frequency": 33
+      },
+      {
+        "word": "brand",
+        "frequency": 32
+      },
+      {
+        "word": "现在",
+        "frequency": 31
+      },
+      {
+        "word": "就是",
+        "frequency": 30
+      },
+      {
+        "word": "嫉妒",
+        "frequency": 30
+      },
+      {
+        "word": "时间",
+        "frequency": 29
+      },
+      {
+        "word": "朋友圈",
+        "frequency": 29
+      },
+      {
+        "word": "所以",
+        "frequency": 28
+      },
+      {
+        "word": "知道",
+        "frequency": 28
+      },
+      {
+        "word": "cosplay",
+        "frequency": 28
+      },
+      {
+        "word": "真的",
+        "frequency": 27
+      },
+      {
+        "word": "with",
+        "frequency": 27
+      },
+      {
+        "word": "没有",
+        "frequency": 27
+      },
+      {
+        "word": "蘑菇",
+        "frequency": 27
+      },
+      {
+        "word": "他們",
+        "frequency": 26
+      },
+      {
+        "word": "rap",
+        "frequency": 26
+      },
+      {
+        "word": "不能",
+        "frequency": 25
+      },
+      {
+        "word": "一切",
+        "frequency": 25
+      },
+      {
+        "word": "oh",
+        "frequency": 25
+      },
+      {
+        "word": "兄弟",
+        "frequency": 25
+      },
+      {
+        "word": "开始",
+        "frequency": 24
+      },
+      {
+        "word": "沒有",
+        "frequency": 23
+      },
+      {
+        "word": "love",
+        "frequency": 23
+      },
+      {
+        "word": "如果",
+        "frequency": 23
+      },
+      {
+        "word": "手机",
+        "frequency": 23
+      },
+      {
+        "word": "继续",
+        "frequency": 23
+      }
+    ],
+    "2017": [
+      {
+        "word": "就是",
+        "frequency": 135
+      },
+      {
+        "word": "自己",
+        "frequency": 108
+      },
+      {
+        "word": "the",
+        "frequency": 107
+      },
+      {
+        "word": "logo",
+        "frequency": 103
+      },
+      {
+        "word": "my",
+        "frequency": 99
+      },
+      {
+        "word": "想要",
+        "frequency": 97
+      },
+      {
+        "word": "不是",
+        "frequency": 84
+      },
+      {
+        "word": "非常",
+        "frequency": 80
+      },
+      {
+        "word": "可以",
+        "frequency": 74
+      },
+      {
+        "word": "感觉",
+        "frequency": 74
+      },
+      {
+        "word": "so",
+        "frequency": 73
+      },
+      {
+        "word": "me",
+        "frequency": 72
+      },
+      {
+        "word": "up",
+        "frequency": 70
+      },
+      {
+        "word": "知道",
+        "frequency": 69
+      },
+      {
+        "word": "不要",
+        "frequency": 68
+      },
+      {
+        "word": "他们",
+        "frequency": 67
+      },
+      {
+        "word": "you",
+        "frequency": 63
+      },
+      {
+        "word": "我们",
+        "frequency": 62
+      },
+      {
+        "word": "看到",
+        "frequency": 62
+      },
+      {
+        "word": "没有",
+        "frequency": 61
+      },
+      {
+        "word": "兄弟",
+        "frequency": 60
+      },
+      {
+        "word": "朋友",
+        "frequency": 60
+      },
+      {
+        "word": "lolo",
+        "frequency": 59
+      },
+      {
+        "word": "it",
+        "frequency": 58
+      },
+      {
+        "word": "什么",
+        "frequency": 58
+      },
+      {
+        "word": "宇宙",
+        "frequency": 58
+      },
+      {
+        "word": "如果",
+        "frequency": 57
+      },
+      {
+        "word": "straight",
+        "frequency": 57
+      },
+      {
+        "word": "需要",
+        "frequency": 55
+      },
+      {
+        "word": "we",
+        "frequency": 54
+      },
+      {
+        "word": "got",
+        "frequency": 53
+      },
+      {
+        "word": "因为",
+        "frequency": 52
+      },
+      {
+        "word": "宝贝",
+        "frequency": 52
+      },
+      {
+        "word": "一下",
+        "frequency": 52
+      },
+      {
+        "word": "生活",
+        "frequency": 51
+      },
+      {
+        "word": "一天",
+        "frequency": 50
+      },
+      {
+        "word": "那些",
+        "frequency": 50
+      },
+      {
+        "word": "生意",
+        "frequency": 50
+      },
+      {
+        "word": "that",
+        "frequency": 48
+      },
+      {
+        "word": "喜欢",
+        "frequency": 48
+      },
+      {
+        "word": "好多钱",
+        "frequency": 48
+      },
+      {
+        "word": "i'm",
+        "frequency": 47
+      },
+      {
+        "word": "like",
+        "frequency": 47
+      },
+      {
+        "word": "一个",
+        "frequency": 47
+      },
+      {
+        "word": "身体",
+        "frequency": 47
+      },
+      {
+        "word": "don't",
+        "frequency": 47
+      },
+      {
+        "word": "我們",
+        "frequency": 46
+      },
+      {
+        "word": "能够",
+        "frequency": 45
+      },
+      {
+        "word": "不想",
+        "frequency": 44
+      },
+      {
+        "word": "美国",
+        "frequency": 44
+      }
+    ],
+    "2018": [
+      {
+        "word": "自己",
+        "frequency": 230
+      },
+      {
+        "word": "the",
+        "frequency": 167
+      },
+      {
+        "word": "you",
+        "frequency": 160
+      },
+      {
+        "word": "没有",
+        "frequency": 143
+      },
+      {
+        "word": "就是",
+        "frequency": 140
+      },
+      {
+        "word": "他们",
+        "frequency": 139
+      },
+      {
+        "word": "我们",
+        "frequency": 139
+      },
+      {
+        "word": "my",
+        "frequency": 138
+      },
+      {
+        "word": "me",
+        "frequency": 116
+      },
+      {
+        "word": "yeah",
+        "frequency": 116
+      },
+      {
+        "word": "知道",
+        "frequency": 112
+      },
+      {
+        "word": "需要",
+        "frequency": 103
+      },
+      {
+        "word": "it",
+        "frequency": 100
+      },
+      {
+        "word": "一个",
+        "frequency": 95
+      },
+      {
+        "word": "兄弟",
+        "frequency": 93
+      },
+      {
+        "word": "不是",
+        "frequency": 92
+      },
+      {
+        "word": "那些",
+        "frequency": 92
+      },
+      {
+        "word": "朋友",
+        "frequency": 90
+      },
+      {
+        "word": "什么",
+        "frequency": 90
+      },
+      {
+        "word": "不要",
+        "frequency": 88
+      },
+      {
+        "word": "想要",
+        "frequency": 86
+      },
+      {
+        "word": "所有",
+        "frequency": 83
+      },
+      {
+        "word": "如果",
+        "frequency": 82
+      },
+      {
+        "word": "现在",
+        "frequency": 81
+      },
+      {
+        "word": "to",
+        "frequency": 81
+      },
+      {
+        "word": "可以",
+        "frequency": 79
+      },
+      {
+        "word": "不想",
+        "frequency": 76
+      },
+      {
+        "word": "未来",
+        "frequency": 76
+      },
+      {
+        "word": "oh",
+        "frequency": 74
+      },
+      {
+        "word": "你们",
+        "frequency": 73
+      },
+      {
+        "word": "感觉",
+        "frequency": 68
+      },
+      {
+        "word": "所以",
+        "frequency": 66
+      },
+      {
+        "word": "老子",
+        "frequency": 66
+      },
+      {
+        "word": "因为",
+        "frequency": 66
+      },
+      {
+        "word": "baby",
+        "frequency": 64
+      },
+      {
+        "word": "只是",
+        "frequency": 63
+      },
+      {
+        "word": "do",
+        "frequency": 63
+      },
+      {
+        "word": "还是",
+        "frequency": 63
+      },
+      {
+        "word": "條女",
+        "frequency": 63
+      },
+      {
+        "word": "永遠",
+        "frequency": 62
+      },
+      {
+        "word": "一直",
+        "frequency": 60
+      },
+      {
+        "word": "不会",
+        "frequency": 59
+      },
+      {
+        "word": "for",
+        "frequency": 59
+      },
+      {
+        "word": "生活",
+        "frequency": 59
+      },
+      {
+        "word": "尿酸",
+        "frequency": 58
+      },
+      {
+        "word": "so",
+        "frequency": 57
+      },
+      {
+        "word": "i'm",
+        "frequency": 57
+      },
+      {
+        "word": "开始",
+        "frequency": 57
+      },
+      {
+        "word": "真的",
+        "frequency": 55
+      },
+      {
+        "word": "打倒",
+        "frequency": 55
+      }
+    ],
+    "2019": [
+      {
+        "word": "the",
+        "frequency": 225
+      },
+      {
+        "word": "you",
+        "frequency": 153
+      },
+      {
+        "word": "没有",
+        "frequency": 150
+      },
+      {
+        "word": "yeah",
+        "frequency": 142
+      },
+      {
+        "word": "back",
+        "frequency": 125
+      },
+      {
+        "word": "自己",
+        "frequency": 122
+      },
+      {
+        "word": "me",
+        "frequency": 119
+      },
+      {
+        "word": "it",
+        "frequency": 118
+      },
+      {
+        "word": "知道",
+        "frequency": 98
+      },
+      {
+        "word": "no",
+        "frequency": 96
+      },
+      {
+        "word": "世界",
+        "frequency": 94
+      },
+      {
+        "word": "my",
+        "frequency": 92
+      },
+      {
+        "word": "all",
+        "frequency": 88
+      },
+      {
+        "word": "一个",
+        "frequency": 83
+      },
+      {
+        "word": "on",
+        "frequency": 82
+      },
+      {
+        "word": "way",
+        "frequency": 81
+      },
+      {
+        "word": "rap",
+        "frequency": 79
+      },
+      {
+        "word": "他们",
+        "frequency": 74
+      },
+      {
+        "word": "我们",
+        "frequency": 64
+      },
+      {
+        "word": "up",
+        "frequency": 64
+      },
+      {
+        "word": "man",
+        "frequency": 64
+      },
+      {
+        "word": "to",
+        "frequency": 63
+      },
+      {
+        "word": "现在",
+        "frequency": 63
+      },
+      {
+        "word": "想要",
+        "frequency": 60
+      },
+      {
+        "word": "real",
+        "frequency": 60
+      },
+      {
+        "word": "大脑",
+        "frequency": 60
+      },
+      {
+        "word": "所有",
+        "frequency": 57
+      },
+      {
+        "word": "哥们",
+        "frequency": 57
+      },
+      {
+        "word": "如果",
+        "frequency": 56
+      },
+      {
+        "word": "不能",
+        "frequency": 56
+      },
+      {
+        "word": "in",
+        "frequency": 56
+      },
+      {
+        "word": "感觉",
+        "frequency": 54
+      },
+      {
+        "word": "and",
+        "frequency": 54
+      },
+      {
+        "word": "just",
+        "frequency": 54
+      },
+      {
+        "word": "广东",
+        "frequency": 53
+      },
+      {
+        "word": "不会",
+        "frequency": 52
+      },
+      {
+        "word": "what",
+        "frequency": 51
+      },
+      {
+        "word": "一起",
+        "frequency": 51
+      },
+      {
+        "word": "know",
+        "frequency": 50
+      },
+      {
+        "word": "真的",
+        "frequency": 49
+      },
+      {
+        "word": "we",
+        "frequency": 49
+      },
+      {
+        "word": "不是",
+        "frequency": 49
+      },
+      {
+        "word": "不要",
+        "frequency": 49
+      },
+      {
+        "word": "你们",
+        "frequency": 48
+      },
+      {
+        "word": "不想",
+        "frequency": 48
+      },
+      {
+        "word": "say",
+        "frequency": 48
+      },
+      {
+        "word": "好想你",
+        "frequency": 48
+      },
+      {
+        "word": "so",
+        "frequency": 47
+      },
+      {
+        "word": "就是",
+        "frequency": 47
+      },
+      {
+        "word": "可以",
+        "frequency": 47
+      }
+    ],
+    "2020": [
+      {
+        "word": "我们",
+        "frequency": 362
+      },
+      {
+        "word": "the",
+        "frequency": 257
+      },
+      {
+        "word": "you",
+        "frequency": 236
+      },
+      {
+        "word": "你们",
+        "frequency": 233
+      },
+      {
+        "word": "没有",
+        "frequency": 172
+      },
+      {
+        "word": "他们",
+        "frequency": 169
+      },
+      {
+        "word": "it",
+        "frequency": 160
+      },
+      {
+        "word": "自己",
+        "frequency": 151
+      },
+      {
+        "word": "me",
+        "frequency": 135
+      },
+      {
+        "word": "no",
+        "frequency": 134
+      },
+      {
+        "word": "不是",
+        "frequency": 127
+      },
+      {
+        "word": "my",
+        "frequency": 118
+      },
+      {
+        "word": "yeah",
+        "frequency": 108
+      },
+      {
+        "word": "什么",
+        "frequency": 106
+      },
+      {
+        "word": "一个",
+        "frequency": 91
+      },
+      {
+        "word": "be",
+        "frequency": 90
+      },
+      {
+        "word": "不想",
+        "frequency": 88
+      },
+      {
+        "word": "we",
+        "frequency": 87
+      },
+      {
+        "word": "世界",
+        "frequency": 86
+      },
+      {
+        "word": "不要",
+        "frequency": 86
+      },
+      {
+        "word": "如果",
+        "frequency": 86
+      },
+      {
+        "word": "兄弟",
+        "frequency": 83
+      },
+      {
+        "word": "不能",
+        "frequency": 82
+      },
+      {
+        "word": "可以",
+        "frequency": 78
+      },
+      {
+        "word": "不会",
+        "frequency": 78
+      },
+      {
+        "word": "因为",
+        "frequency": 76
+      },
+      {
+        "word": "现在",
+        "frequency": 74
+      },
+      {
+        "word": "就是",
+        "frequency": 73
+      },
+      {
+        "word": "说唱",
+        "frequency": 73
+      },
+      {
+        "word": "想要",
+        "frequency": 72
+      },
+      {
+        "word": "还是",
+        "frequency": 72
+      },
+      {
+        "word": "like",
+        "frequency": 72
+      },
+      {
+        "word": "get",
+        "frequency": 72
+      },
+      {
+        "word": "生活",
+        "frequency": 71
+      },
+      {
+        "word": "to",
+        "frequency": 71
+      },
+      {
+        "word": "变成",
+        "frequency": 69
+      },
+      {
+        "word": "is",
+        "frequency": 68
+      },
+      {
+        "word": "老子",
+        "frequency": 67
+      },
+      {
+        "word": "看到",
+        "frequency": 66
+      },
+      {
+        "word": "in",
+        "frequency": 66
+      },
+      {
+        "word": "像是",
+        "frequency": 66
+      },
+      {
+        "word": "real",
+        "frequency": 66
+      },
+      {
+        "word": "on",
+        "frequency": 65
+      },
+      {
+        "word": "all",
+        "frequency": 64
+      },
+      {
+        "word": "up",
+        "frequency": 64
+      },
+      {
+        "word": "and",
+        "frequency": 64
+      },
+      {
+        "word": "drunk",
+        "frequency": 64
+      },
+      {
+        "word": "hard",
+        "frequency": 63
+      },
+      {
+        "word": "what",
+        "frequency": 63
+      },
+      {
+        "word": "love",
+        "frequency": 63
+      }
+    ],
+    "2021": [
+      {
+        "word": "老子",
+        "frequency": 366
+      },
+      {
+        "word": "我们",
+        "frequency": 362
+      },
+      {
+        "word": "自己",
+        "frequency": 355
+      },
+      {
+        "word": "up",
+        "frequency": 306
+      },
+      {
+        "word": "my",
+        "frequency": 292
+      },
+      {
+        "word": "你们",
+        "frequency": 292
+      },
+      {
+        "word": "the",
+        "frequency": 257
+      },
+      {
+        "word": "他们",
+        "frequency": 248
+      },
+      {
+        "word": "me",
+        "frequency": 246
+      },
+      {
+        "word": "you",
+        "frequency": 237
+      },
+      {
+        "word": "不是",
+        "frequency": 234
+      },
+      {
+        "word": "没有",
+        "frequency": 233
+      },
+      {
+        "word": "可以",
+        "frequency": 205
+      },
+      {
+        "word": "to",
+        "frequency": 194
+      },
+      {
+        "word": "就是",
+        "frequency": 193
+      },
+      {
+        "word": "不要",
+        "frequency": 173
+      },
+      {
+        "word": "yeah",
+        "frequency": 162
+      },
+      {
+        "word": "on",
+        "frequency": 155
+      },
+      {
+        "word": "it",
+        "frequency": 150
+      },
+      {
+        "word": "一个",
+        "frequency": 143
+      },
+      {
+        "word": "那些",
+        "frequency": 141
+      },
+      {
+        "word": "like",
+        "frequency": 139
+      },
+      {
+        "word": "感觉",
+        "frequency": 136
+      },
+      {
+        "word": "全部",
+        "frequency": 134
+      },
+      {
+        "word": "不会",
+        "frequency": 130
+      },
+      {
+        "word": "变成",
+        "frequency": 127
+      },
+      {
+        "word": "如果",
+        "frequency": 127
+      },
+      {
+        "word": "需要",
+        "frequency": 126
+      },
+      {
+        "word": "世界",
+        "frequency": 124
+      },
+      {
+        "word": "可能",
+        "frequency": 124
+      },
+      {
+        "word": "所有",
+        "frequency": 122
+      },
+      {
+        "word": "时间",
+        "frequency": 121
+      },
+      {
+        "word": "兄弟",
+        "frequency": 118
+      },
+      {
+        "word": "一切",
+        "frequency": 117
+      },
+      {
+        "word": "所以",
+        "frequency": 117
+      },
+      {
+        "word": "现在",
+        "frequency": 114
+      },
+      {
+        "word": "像是",
+        "frequency": 111
+      },
+      {
+        "word": "真的",
+        "frequency": 110
+      },
+      {
+        "word": "只是",
+        "frequency": 105
+      },
+      {
+        "word": "know",
+        "frequency": 101
+      },
+      {
+        "word": "that",
+        "frequency": 100
+      },
+      {
+        "word": "oh",
+        "frequency": 95
+      },
+      {
+        "word": "想要",
+        "frequency": 94
+      },
+      {
+        "word": "不用",
+        "frequency": 94
+      },
+      {
+        "word": "为了",
+        "frequency": 93
+      },
+      {
+        "word": "be",
+        "frequency": 90
+      },
+      {
+        "word": "还是",
+        "frequency": 89
+      },
+      {
+        "word": "不想",
+        "frequency": 89
+      },
+      {
+        "word": "一直",
+        "frequency": 87
+      },
+      {
+        "word": "不到",
+        "frequency": 86
+      }
+    ],
+    "2022": [
+      {
+        "word": "the",
+        "frequency": 54
+      },
+      {
+        "word": "我们",
+        "frequency": 54
+      },
+      {
+        "word": "你们",
+        "frequency": 52
+      },
+      {
+        "word": "自己",
+        "frequency": 40
+      },
+      {
+        "word": "他们",
+        "frequency": 38
+      },
+      {
+        "word": "my",
+        "frequency": 33
+      },
+      {
+        "word": "没有",
+        "frequency": 33
+      },
+      {
+        "word": "in",
+        "frequency": 33
+      },
+      {
+        "word": "me",
+        "frequency": 31
+      },
+      {
+        "word": "那些",
+        "frequency": 30
+      },
+      {
+        "word": "up",
+        "frequency": 28
+      },
+      {
+        "word": "on",
+        "frequency": 26
+      },
+      {
+        "word": "现在",
+        "frequency": 25
+      },
+      {
+        "word": "it",
+        "frequency": 25
+      },
+      {
+        "word": "shit",
+        "frequency": 25
+      },
+      {
+        "word": "this",
+        "frequency": 25
+      },
+      {
+        "word": "teriyaki",
+        "frequency": 24
+      },
+      {
+        "word": "说唱",
+        "frequency": 23
+      },
+      {
+        "word": "擦不掉",
+        "frequency": 23
+      },
+      {
+        "word": "一个",
+        "frequency": 22
+      },
+      {
+        "word": "hip-hop",
+        "frequency": 22
+      },
+      {
+        "word": "不是",
+        "frequency": 21
+      },
+      {
+        "word": "yeah",
+        "frequency": 20
+      },
+      {
+        "word": "you",
+        "frequency": 20
+      },
+      {
+        "word": "need",
+        "frequency": 20
+      },
+      {
+        "word": "看到",
+        "frequency": 19
+      },
+      {
+        "word": "like",
+        "frequency": 19
+      },
+      {
+        "word": "因为",
+        "frequency": 19
+      },
+      {
+        "word": "streets",
+        "frequency": 19
+      },
+      {
+        "word": "每天",
+        "frequency": 18
+      },
+      {
+        "word": "想要",
+        "frequency": 18
+      },
+      {
+        "word": "一步",
+        "frequency": 18
+      },
+      {
+        "word": "还是",
+        "frequency": 17
+      },
+      {
+        "word": "变成",
+        "frequency": 17
+      },
+      {
+        "word": "歌词",
+        "frequency": 17
+      },
+      {
+        "word": "可以",
+        "frequency": 17
+      },
+      {
+        "word": "man",
+        "frequency": 17
+      },
+      {
+        "word": "yykbz",
+        "frequency": 17
+      },
+      {
+        "word": "老子",
+        "frequency": 17
+      },
+      {
+        "word": "什么",
+        "frequency": 16
+      },
+      {
+        "word": "不会",
+        "frequency": 16
+      },
+      {
+        "word": "兄弟",
+        "frequency": 16
+      },
+      {
+        "word": "赚钱",
+        "frequency": 16
+      },
+      {
+        "word": "需要",
+        "frequency": 15
+      },
+      {
+        "word": "里面",
+        "frequency": 15
+      },
+      {
+        "word": "we",
+        "frequency": 15
+      },
+      {
+        "word": "所以",
+        "frequency": 15
+      },
+      {
+        "word": "就是",
+        "frequency": 14
+      },
+      {
+        "word": "从头再来",
+        "frequency": 14
+      },
+      {
+        "word": "无法",
+        "frequency": 14
+      }
+    ]
+  },
+  "statistics": {
+    "total_unique_words": 87468,
+    "year_range": {
+      "start": 1996,
+      "end": 2022
+    }
+  }
+}
